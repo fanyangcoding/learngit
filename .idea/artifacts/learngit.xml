@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="learngit">
+    <output-path>$PROJECT_DIR$/out/artifacts/learngit</output-path>
+    <root id="archive" name="learngit.jar" />
+  </artifact>
+</component>
